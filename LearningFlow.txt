@@ -1,4 +1,0 @@
->>>>> Flask Application with Metrics <<<<<
-1. Get the app ready locally.
-
-

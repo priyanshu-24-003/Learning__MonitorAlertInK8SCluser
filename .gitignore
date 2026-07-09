@@ -1,7 +1,17 @@
+
+#etc files
+
+learningflow.txt
+help1.html
+help1_files
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+
+
 
 # C extensions
 *.so
